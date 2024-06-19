@@ -1,3 +1,4 @@
+
 ![diamond](http://www.diamondsearch.org/diamond_white_95px.png)
 
 Introduction
